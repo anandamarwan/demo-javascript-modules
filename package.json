@@ -1,0 +1,30 @@
+{
+  "name": "demo-javascript-modules",
+  "version": "1.0.0",
+  "description": "Demo Javascript Modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandamarwan/demo-javascript-modules.git"
+  },
+  "keywords": [
+    "demo",
+    "javascript",
+    "modules"
+  ],
+  "author": "Ananda Marwanaya Putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandamarwan/demo-javascript-modules/issues"
+  },
+  "homepage": "https://github.com/anandamarwan/demo-javascript-modules#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
